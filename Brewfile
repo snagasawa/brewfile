@@ -11,6 +11,7 @@ cask google-cloud-sdk
 cask google-drive
 cask google-photos-backup
 cask gyazo
+cask haskell-platform
 cask intellij-idea-ce
 cask iterm2
 cask jasper
@@ -82,10 +83,13 @@ brew libvterm
 brew libyaml
 brew lua
 brew mas
+brew mecab
+brew mecab-ipadic
 brew msgpack
 brew mysql
 brew node
 brew nodebrew
+brew ocaml
 brew oniguruma
 brew openssl
 brew openssl@1.1
@@ -97,7 +101,7 @@ brew postgresql
 brew pyenv
 brew python
 brew python3
-brew qt5
+brew qt
 brew rbenv
 brew readline
 brew redpen
